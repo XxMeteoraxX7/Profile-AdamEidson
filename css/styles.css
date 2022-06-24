@@ -137,3 +137,42 @@ header {
     color: red;
     border: 1px solid gold;
 }
+
+@media only screen and (max-width: 600px) {
+
+    #faqs {
+        margin: 10px 100px;
+        border: 5px groove darkgrey;
+        padding: 20px;
+        background: darkgrey;
+        border-radius: 0%;
+    }
+
+    .nav_buttons a {
+        display: block;
+        text-decoration: none;
+        border: 5px groove darkgrey;
+        background: white;
+        padding: 8px;
+        color: rgb(98, 27, 27);
+        font-weight: 700;
+        text-shadow: darkred 1px 1px 1px;
+        box-shadow: rgb(127, 62, 62) 2px 2px 3px;
+        border-radius: 0%;
+    }
+
+    #contact a {
+        display: block;
+        text-decoration: none;
+        border: 5px groove darkgrey;
+        margin: 5px;
+        padding: 8px;
+        width:fit-content;
+        color: rgb(98, 27, 27);
+        background: white;
+        font-weight: 700;
+        text-shadow: darkred 1px 1px 1px;
+        box-shadow: rgb(127, 62, 62) 2px 2px 3px;
+        border-radius: 0%;
+      }
+}
