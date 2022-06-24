@@ -75,7 +75,7 @@ header {
     border-radius: 15%;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1000px) {
 
     #faqs {
         margin: 10px 100px;
@@ -95,7 +95,7 @@ header {
     line-height: 1.5rem;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1000px) {
 
     .when, .previous, .start, .how, .next {
         border: 5px groove darkgrey;
