@@ -148,31 +148,12 @@ header {
         border-radius: 0%;
     }
 
-    .nav_buttons a {
-        display: block;
-        text-decoration: none;
+    .when, .previous, .start, .how, .next {
         border: 5px groove darkgrey;
+        margin: 8px;
+        padding: 60px;
         background: white;
-        padding: 8px;
-        color: rgb(98, 27, 27);
-        font-weight: 700;
-        text-shadow: darkred 1px 1px 1px;
-        box-shadow: rgb(127, 62, 62) 2px 2px 3px;
         border-radius: 0%;
+        line-height: 1.5rem;
     }
-
-    #contact a {
-        display: block;
-        text-decoration: none;
-        border: 5px groove darkgrey;
-        margin: 5px;
-        padding: 8px;
-        width:fit-content;
-        color: rgb(98, 27, 27);
-        background: white;
-        font-weight: 700;
-        text-shadow: darkred 1px 1px 1px;
-        box-shadow: rgb(127, 62, 62) 2px 2px 3px;
-        border-radius: 0%;
-      }
 }
