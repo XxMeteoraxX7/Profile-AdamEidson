@@ -10,7 +10,7 @@ body {
     width: 100%;
     text-align: center;
     background-image: url("vid/Meadow.gif");
-    background-position: center;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
