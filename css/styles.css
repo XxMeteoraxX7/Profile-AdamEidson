@@ -12,6 +12,33 @@ body {
     text-align: center;
 }
 
+@media screen and (max-width: 1270px) {
+    body {
+        position: relative;
+        top: 138px;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 654px) {
+    body {
+        position: relative;
+        top: 202px;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    body {
+        position: relative;
+        top: 266px;
+        width: 100%;
+        text-align: center;
+    }
+}
+
 .background {
     position: absolute;
     top: 0;
