@@ -8,8 +8,11 @@ body {
     position: relative;
     top: 74px;
     width: 100%;
-
     text-align: center;
+    background-image: url("vid/Meadow.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 @media screen and (max-width: 1272px) {
