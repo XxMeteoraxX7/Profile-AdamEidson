@@ -128,6 +128,9 @@ header {
     background: white;
     border-radius: 35%;
     line-height: 1.5rem;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (max-width: 1000px) {
