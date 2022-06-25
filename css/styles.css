@@ -189,9 +189,14 @@ header {
     text-shadow: darkred 1px 1px 1px;
     box-shadow: rgb(127, 62, 62) 2px 2px 3px;
     border-radius: 50%;
-  }
+}
 
-li:hover {
+a:hover {
     color: red;
-    border: 1px solid gold;
-  }
+    border: 5px solid gold;
+}
+
+#contact a:hover {
+    color: red;
+    border: 5px solid gold;
+}
