@@ -191,7 +191,7 @@ header {
     border-radius: 50%;
   }
 
-  a:hover {
+li:hover {
     color: red;
     border: 1px solid gold;
-}
+  }
